@@ -1,0 +1,22 @@
+#cloud{
+    background-color: black;
+    font-size: 25px;
+    color: white;
+}
+#cloud>h1>span{
+    color: aqua;
+}
+#proj{
+    font-style: italic;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    font-size: 20px;
+}
+#contactlink{
+    text-decoration: underline;
+    text-align: end;
+    color: blueviolet;
+    background-color: aquamarine;
+    font-size: large;
+}
