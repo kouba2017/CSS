@@ -1,0 +1,30 @@
+#srch>button{
+    color: #00ffffa2;
+    border-color: #00ffffa2;
+    border-radius: 15px;
+    border-style: groove;
+    background-color: white;
+    height: 35px;
+    width: 200px;
+    margin: 12px;
+    
+}
+#pls>button{
+    background-color: azure;
+    border-radius: 20px;
+    color: blueviolet;
+    border-color: azure;
+    border-style: groove;
+    
+}
+#crt>button{
+    background-color: rgba(0, 0, 255, 0.322);
+    color: aliceblue;
+    box-shadow: 7px 5px 3px black;
+}
+button{
+    font-size: 25px;
+    margin:12px;
+    text-align:  center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

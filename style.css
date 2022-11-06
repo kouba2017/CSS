@@ -3,6 +3,9 @@
     font-size: 25px;
     color: white;
 }
+    /*background: #ffffff url("cherries.png") no-repeat fixed center;
+    */
+
 #cloud>h1>span{
     color: aqua;
 }
