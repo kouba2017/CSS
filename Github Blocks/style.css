@@ -1,6 +1,6 @@
-h1{
-    font-weight: bold;
-    text-align: center;
+h1,p{
+    
+    text-align:center;
 }
 #cont1{
     background-color: aquamarine;
@@ -26,7 +26,6 @@ h1{
     margin: 0 auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    
 }
 #cont2>img{
     width: 200px;
@@ -41,6 +40,7 @@ h1{
     width: 800px;
     margin: 0 auto;
     margin-top: 10px;
+    margin-bottom: 10px;
     
 }
 #cont3>img{
