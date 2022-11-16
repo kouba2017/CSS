@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: cursive;
 }
 #cont{
     display: flex;
@@ -13,10 +13,9 @@ body{
     height: 400px;
     flex-direction: column;
     border-width: 20px;
-    border-color:  gold;
 }
 #cont1{
-    background-color: rgb(43, 32, 143);
+    background-color: rgb(23,162,184);
     display: flex;
     align-items: center;
     width: 1000px;
